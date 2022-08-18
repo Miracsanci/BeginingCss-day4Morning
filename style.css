@@ -1,0 +1,19 @@
+h1,h4,h2{
+ text-align: center;
+ color: #ff22aa; 
+ border: 2px solid pink;
+ padding: 10px;  
+}
+a{
+    width: 20%;
+    padding-left: 45%;
+}
+p{
+    font-size: 20px;
+    color   : gray;
+    padding: 40px;
+    background-color: beige;
+}
+body{
+    background-color: #ffaa;
+}
